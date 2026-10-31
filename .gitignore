@@ -1,0 +1,4 @@
+# Runtime logs and local settings
+**/npc_log.txt
+**/config/
+**/*.log
