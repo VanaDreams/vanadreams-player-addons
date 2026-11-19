@@ -1,0 +1,7 @@
+The 'VenGo' look of these addons (skins.lua) is based on the look of VenGo by ChadBrowick
+https://github.com/ChadBrowick/VenGo  (GNU General Public License v3, see LICENSE)
+
+Taken from VenGo's vengo.lua and adapted: the colour themes (seven accents: Pink & violet, Ocean, Emerald, Sunset, Gold,
+Crimson, Ice; six backgrounds: Violet black, Black, Navy, Charcoal, Plum, Forest), the panel colours, the violet panel edge
+with the pink-to-violet line near the top, the glass buttons with a pink edge, the pink-to-violet bars and the spaced
+capital section names. VenGo is itself styled after YunaUI by Yunas (see NOTICE-YunaUI.txt).

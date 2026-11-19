@@ -1,0 +1,39 @@
+YunaUI
+Copyright (C) 2026 Yunas (https://github.com/YunasXI)
+https://github.com/YunasXI/yunaui
+
+YunaUI is free software: you can redistribute it and/or modify it under the terms of the
+GNU General Public License version 3 (see LICENSE), with the additional term below.
+
+YunaUI includes GPL-3.0 code from XIUI; that code stays under the plain GPL-3.0 and its own
+authors' notices. The additional term covers only the material written by Yunas.
+
+sounds/item.mp3 is "Item Pickup" by Yodguard (Pixabay, https://pixabay.com), used under the
+Pixabay Content License; it is not covered by the GPL or the additional term.
+
+sounds/mb_scroll.mp3 is "UI Sound" 95 by juniorsoundays (Pixabay, https://pixabay.com), used under
+the Pixabay Content License; it is not covered by the GPL or the additional term.
+
+sounds/mode_vex.wav is "Soft luxury air whoosh #8" by Sdanezis, sounds/mode_hex.wav is "Sci-Fi UI
+Click Sound" by SoundShelfStudio and sounds/invite.wav is "Interface" by Universfield (all Pixabay,
+https://pixabay.com, trimmed and made quieter), used under the Pixabay Content License; they are not
+covered by the GPL or the additional term.
+
+
+ADDITIONAL TERM (GNU GPL version 3, section 7(b): preservation of author attributions)
+
+Any work that copies, modifies or includes material from YunaUI, in whole or in part
+(code, layouts, artwork, icons or other files by Yunas from this repository), must:
+
+  1. keep this NOTICE file, the copyright lines and the author credits in the files it uses; and
+  2. give clear credit in its README (or its main page, if it has no README), in the form:
+
+        Based on YunaUI by Yunas - https://github.com/YunasXI/yunaui
+
+This credit must not be removed or hidden in any copy or modified version.
+
+
+A REQUEST (not a licence term)
+
+If you make your own addon or UI that is inspired by YunaUI's look or ideas, without using
+its files, please credit it the same way. It costs nothing and is much appreciated.
